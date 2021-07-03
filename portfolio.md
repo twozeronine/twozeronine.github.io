@@ -25,7 +25,7 @@ toc: true
 
 ### Team Project
 
-- 06/11 ~ 08/17 [검이 터졌다!](https://twozeronine.github.io/portfolio/2020/05/29/SwordBreak/)
+- 06/11 ~ 08/17 [검이 터졌다!](https://twozeronine.github.io/portfolio/2020/06/11/SwordBreak/)
 
 ### Game Toy Project
 
