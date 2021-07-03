@@ -7,6 +7,20 @@ categories:
 toc: true
 ---
 
+## 2021
+
+### Web Project
+
+- 03/15 ~ 03/30 [Young Blog](https://twozeronine.github.io/portfolio/web/2021/03/15/post-blog-client&server/)
+
+### Web Toy Project
+
+- 03/15 [news-web-app](https://twozeronine.github.io/portfolio/web/2021/03/15/news-web-app/)
+- 03/08 [nextjs-blog](https://twozeronine.github.io/portfolio/web/2021/03/08/nextjs-blog/)
+- 02/26 [get-user-list-server & client](https://twozeronine.github.io/portfolio/web/2021/02/26/get-user-list-server&client/)
+- 02/19 [react-simple-web-app](https://twozeronine.github.io/portfolio/web/2021/02/19/react-todolist-web-app/)
+- 02/09 [react-simple-web-app](https://twozeronine.github.io/portfolio/web/2021/02/09/react-simple-web-app/)
+
 ## 2020
 
 ### Team Project

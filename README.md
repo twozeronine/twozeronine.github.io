@@ -1,6 +1,6 @@
 # twozeronine.github.io<!-- omit in toc -->
 
-개인 개발자 블로그입니다.
+개발자 개인 블로그입니다.
 
 <https://twozeronine.github.io>
 
