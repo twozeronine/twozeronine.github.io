@@ -62,6 +62,14 @@ TeamNewmeta 프로젝트 : 메인 프로그래밍
 
 클라이언트와 API 서버 Fullstack으로 구현한 블로그 웹앱
 
+### Heroes Defense : Zombie Attack
+
+> Jun.2021 ~ Sep.2021
+
+㈜ Dodamgames 프로젝트
+
+수집형 디펜스 모바일 게임
+
 ## Work Experiences
 
 ---
