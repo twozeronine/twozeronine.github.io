@@ -11,7 +11,7 @@ toc: true
 
 ### Game Project
 
-- 06/14 ~ 09/24 [Heroes Defense](https://twozeronine.github.io/portfolio/2021/09/15/HeroesDefense/)
+- 06/14 ~ 09/24 [Heroes Defense](https://twozeronine.github.io/portfolio/game/2021/06/14/HeroesDefense/)
 
 ### Web Project
 
