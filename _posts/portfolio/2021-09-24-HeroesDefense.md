@@ -27,6 +27,9 @@ font-weight:bold">
 <center>타깃 국가 : 글로벌</center>
 <center>개발팀 : ㈜ Dodam Games</center>
 <center>당담역할 : 컨텐츠 개발 및 시스템 개발</center>
+
+---
+
 <center>
 <iframe width="788" height="488" src="https://www.youtube.com/embed/0Ct5K-o4hcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
