@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 히어로즈 디펜스 \: 좀비어택
+title: 히어로즈 디펜스 좀비어택
 author: twozeronine
 categories:
   - portfolio
-tags: [CSharp, Unity]
-date: 2021-06-14 12:00 +0800
+  - game
+tags: [CSharp, Unity, UniRx, UniTask]
+date: 2021-06-14 15:00 +0800
 last_modified_at: 2021-09-24 01:08:25 +0800
 ---
 
