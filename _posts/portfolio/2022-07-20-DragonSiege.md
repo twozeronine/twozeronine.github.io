@@ -31,7 +31,7 @@ font-weight:bold">
 ---
 
 <center>
-<iframe width="788" height="488" src="https://www.youtube.com/watch?v=KLtGmIDtQA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="788" height="488" src="https://www.youtube.com/embed/KLtGmIDtQA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 <br/>
