@@ -9,6 +9,10 @@ toc: true
 
 ## 2022
 
+### Server Project
+
+- 10/16 ~ 11/08 [Blog](https://twozeronine.github.io/portfolio/web/2022/10/16/Blog/)
+
 ### Game Project
 
 - 01/21 ~ 07/21 [Dragon Siege](https://twozeronine.github.io/portfolio/game/2022/01/21/DragonSiege/)
