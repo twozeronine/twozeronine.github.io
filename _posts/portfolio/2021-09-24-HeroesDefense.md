@@ -38,7 +38,7 @@ font-weight:bold">
 
 <br/>
 
-[※ 구글 플레이 바로가기](https://play.google.com/store/apps/details?id=com.dodamgames.aos.newdefense)
+[※ 구글 플레이 바로가기](https://play.google.com/store/apps/details?id=com.orangegames.android.free.strategy.defense.heroesdefens)
 
 
 ---
