@@ -11,7 +11,7 @@ toc: true
 
 ### Server Project
 
-- 10/16 ~ 11/08 [Blog](https://twozeronine.github.io/portfolio/web/2022/10/16/Blog/)
+- 10/16 ~ 11/08 [Blog](https://twozeronine.github.io/portfolio/web/2022/10/16/blog/)
 
 ### Game Project
 

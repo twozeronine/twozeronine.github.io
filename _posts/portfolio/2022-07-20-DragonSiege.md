@@ -25,7 +25,7 @@ font-weight:bold">
 <center>게임 장르 : MMO SLG</center>
 <center>목표 플랫폼 : 모바일</center>
 <center>타깃 국가 : 글로벌</center>
-<center>개발팀 : ㈜ NDDREAM</center>
+<center>개발팀 : ㈜ NDREAM</center>
 <center>당담역할 : 컨텐츠 개발</center>
 
 ---
