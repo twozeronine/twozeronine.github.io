@@ -35,11 +35,13 @@ Lee Young Kyu
 
 ---
 
-Jan.2022 ~ Jul.2022 : [Ndream](https://www.ndream.com/)
+Jan.2023 ~ : [Momenti](https://sites.google.com/momenti.tv/index), Backend Engineer
 
-Jun.2021 ~ Jan.2022 : [Dodamgames](http://www.dodamgames.com/)
+Jan.2022 ~ Jul.2022 : [Ndream](https://www.ndream.com/), GameClient Engineer
 
-Jun.2020 ~ Aug.2020 : [TeamNewMeta](https://bit.ly/3cBRDqN)
+Jun.2021 ~ Jan.2022 : [Dodamgames](http://www.dodamgames.com/), GameClient Engineer
+
+Jun.2020 ~ Aug.2020 : [TeamNewMeta](https://bit.ly/3cBRDqN), GameClient
 
 ## Project
 
