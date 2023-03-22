@@ -28,14 +28,18 @@ Lee Young Kyu
 
 ---
 
-![C#Icon](https://camo.githubusercontent.com/5a6066cb6799454e110eb8af45ce93881f56d4477268103786dc03730dff40ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432532332532302d626c61636b3f7374796c653d666c6174266c6f676f3d432532305368617270)![unityIcon](https://camo.githubusercontent.com/a8fb97f7736e01291a14f303fe5a6827e149623acfd6807cf39df55969455975/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f756e6974792532302d2532333030303030302e7376673f267374796c653d666c6174266c6f676f3d756e697479266c6f676f436f6c6f723d7768697465)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+
+![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) 
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 ## Work Experiences
 
 ---
 
-Jan.2023 ~ : [Momenti](https://sites.google.com/momenti.tv/index), Backend Engineer
+Jan.2023 ~ : [Momenti](https://momenti.tv/), Backend Engineer
 
 Jan.2022 ~ Jul.2022 : [Ndream](https://www.ndream.com/), GameClient Engineer
 
