@@ -28,18 +28,19 @@ Lee Young Kyu
 
 ---
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) 
+![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
 
 ## Work Experiences
 
 ---
 
-Jan.2023 ~ : [Momenti](https://momenti.tv/), Backend Engineer
+Mar.2024 ~ : [XLgames](https://www.xlgames.com/), Programmer
+
+Jan.2023 ~ Mar.2024: [Momenti](https://momenti.tv/), Backend Engineer
 
 Jan.2022 ~ Jul.2022 : [Ndream](https://www.ndream.com/), GameClient Engineer
 
@@ -83,7 +84,6 @@ TeamNewmeta 프로젝트 : 메인 프로그래밍
 
 복셀 그래픽의 로그라이트 핵앤슬래쉬 장르의 모바일 게임
 
-
 ## Education
 
 ---
@@ -95,4 +95,3 @@ TeamNewmeta 프로젝트 : 메인 프로그래밍
 인천더조은 컴퓨터 학원 1기 : 게임프로그래밍개발자 양성 ( 유니티 3D ) 과정
 
 > Feb.2020 ~ Aug.2020
-
